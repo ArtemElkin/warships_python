@@ -1,0 +1,66 @@
+{
+  "Royal Navy": [
+    {
+      "name": "Medea",
+      "type": "DESTROYER",
+      "sprite_path": "assets/green dd.png",
+      "damage": 30,
+      "hp": 15,
+      "speed": 4,
+      "initial_x": 0,
+      "initial_y": 1
+    },
+    {
+      "name": "Weymouth",
+      "type": "CRUISER",
+      "sprite_path": "assets/green ca.png",
+      "damage": 15,
+      "hp": 30,
+      "speed": 3,
+      "initial_x": 0,
+      "initial_y": 3
+    },
+    {
+      "name": "Iron Duke",
+      "type": "BATTLESHIP",
+      "sprite_path": "assets/green bb.png",
+      "damage": 20,
+      "hp": 50,
+      "speed": 2,
+      "initial_x": 0,
+      "initial_y": 5
+    }
+  ],
+  "Kaiserliche Marine": [
+    {
+      "name": "G-101",
+      "type": "DESTROYER",
+      "sprite_path": "assets/red dd.png",
+      "damage": 30,
+      "hp": 15,
+      "speed": 4,
+      "initial_x": 6,
+      "initial_y": 1
+    },
+    {
+      "name": "Kolberg",
+      "type": "CRUISER",
+      "sprite_path": "assets/red ca.png",
+      "damage": 15,
+      "hp": 30,
+      "speed": 3,
+      "initial_x": 6,
+      "initial_y": 3
+    },
+    {
+      "name": "Koenig",
+      "type": "BATTLESHIP",
+      "sprite_path": "assets/red bb.png",
+      "damage": 20,
+      "hp": 50,
+      "speed": 2,
+      "initial_x": 6,
+      "initial_y": 5
+    }
+  ]
+}
